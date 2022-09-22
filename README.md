@@ -1,6 +1,6 @@
 #1111 雲端運算基礎(資電碩專一)
 
-#0915實作內容
+#0922實作內容
 
 1.註冊並登入AWS-Academy：https://github.com/EISCFCU/111-1-Cloud-Computing/blob/main/SignIn_AWS-Academy.md
 
