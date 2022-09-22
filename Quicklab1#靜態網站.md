@@ -5,8 +5,7 @@
 
 # 使用資源(請先至下載並解壓縮)
 
-1.範例網頁資料連結：https://github.com/EISCFCU/111-1-Cloud-Computing
-
+1.範例網頁資料連結：https://github.com/EISCFCU/AWSCPE-20220816/blob/main/wildrydes-site-master.zip
 ![image](https://user-images.githubusercontent.com/103306835/184571040-58299072-fc11-45c9-853c-7aaccfe1c9f0.png)
 
 # 實施步驟
