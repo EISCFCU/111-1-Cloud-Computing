@@ -2,16 +2,10 @@
 
 建立雲端資料庫(MySQLDB)
 
-# 目前環境架構
 
 # 預期實施架構
 
 ![image](https://user-images.githubusercontent.com/103306835/163801264-6e21b6ee-5fd6-4d29-9299-ce325e50b463.png)
-
-
-# 實施步驟
-
-![image](https://user-images.githubusercontent.com/103306835/174926615-7b29f3b1-3db5-412d-a479-1b06fdd59d37.png)
 
 # Step1:建立雲端資料庫的Security group
 
