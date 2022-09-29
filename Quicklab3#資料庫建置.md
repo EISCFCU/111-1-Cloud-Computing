@@ -21,12 +21,12 @@
 
 4.設定資料庫
 
-'''
+```
 DB instance identifier ：lab-db
 Master username：main
 Master password：lab-password
 Confirm password：lab-password
-'''
+```
 
 ![image](https://user-images.githubusercontent.com/103306835/166851904-f63ad32d-8a37-4119-92ec-c4d562fa20e9.png)
 
