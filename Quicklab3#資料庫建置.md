@@ -1,4 +1,4 @@
-#  Lab 雲端資料庫實作（RDS）
+#  Lab 雲端資料庫實作（RDS）-Module8 資料庫服務
 
 建立雲端資料庫(MySQLDB)
 
@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/163801264-6e21b6ee-5fd6-4d29-9299-ce325e50b463.png)
 
-# Step1:建立雲端資料庫的Security group
+# Step1:建立雲端資料庫的Security group(Module 4 安全性)
 
 1-1.點選左側的Security Group
 
@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/184651242-27c939a0-455e-43c7-894e-a6717dd7da54.png)
 
-1-3.Security Group Name=db-sg;Description=database security group;選擇預設的VPC
+1-3.Security Group Name=db-sg;Description=database security group;選擇預設的VPC (Module 4 安全性)
 
 ![image](https://user-images.githubusercontent.com/103306835/184651696-cb8df758-c71b-47f2-8146-ebb9c0a6fdc4.png)
 
@@ -33,7 +33,7 @@
 ![image](https://user-images.githubusercontent.com/103306835/184652100-08e885ae-a0c7-4d13-97bb-3bc609212aec.png)
 
 
-# Step2:建立雲端資料庫
+# Step2:建立雲端資料庫 (Module 8 資料庫服務)
 
 2-1.選擇 Databases->點擊 Create database
 
@@ -66,11 +66,11 @@ Confirm password：lab-password
 
 ![image](https://user-images.githubusercontent.com/103306835/166852007-4323f0ce-6fc9-4889-8e67-e156baf38cf7.png)
 
-2-7.Virtual Private Cloud (VPC)：Defalt VPC
+2-7.Virtual Private Cloud (VPC)：Defalt VPC (Module 4 安全性)
 
 ![image](https://user-images.githubusercontent.com/103306835/166852047-11c77aaf-9349-4d51-bad4-39e8d06a38ff.png)
 
-2-8.DB Security Group (資料庫安全組)->選擇db-sg
+2-8.DB Security Group (資料庫安全組)->選擇db-sg (Module 4 安全性)
 
 ![image](https://user-images.githubusercontent.com/103306835/184650770-926f3c1e-3ec3-4112-ab64-366566bd1779.png)
 
@@ -89,7 +89,7 @@ Confirm password：lab-password
 
 取消選取 Enable Enhanced monitoring (啟用增強監控)
 
-2-11.點擊 Create database (創建數據庫)
+2-11.點擊 Create database (創建資料庫)
 
 ![image](https://user-images.githubusercontent.com/103306835/166852184-a3222568-0874-4fec-a350-eed970b6293c.png)
 
