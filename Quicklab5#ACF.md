@@ -16,7 +16,7 @@
 3.公司沒有過多的伺服器(你可以想像是電腦)可以閒置，但網站伺服器要能因應購物人潮流量。需求峰值期間仍然可以保持高性能
 
 
-# 實作環境：AWS Academy Learner Lab(課程代號：13467)
+# 實作環境：AWS Academy Learner Lab(課程代號：24390)
 
 登入AWS Management Console
 
