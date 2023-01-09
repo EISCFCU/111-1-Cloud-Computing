@@ -13,3 +13,8 @@
 #0929實作內容
 
 4.Quicklab3#資料庫：https://github.com/EISCFCU/111-1-Cloud-Computing/blob/main/Quicklab3%23%E8%B3%87%E6%96%99%E5%BA%AB%E5%BB%BA%E7%BD%AE.md
+
+
+#1229實作內容
+
+5.Lab1~Lab6整合：
